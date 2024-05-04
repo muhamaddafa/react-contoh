@@ -1,9 +1,7 @@
-import React from "react";
-
 const Homepage = () => {
 	return (
 		<div>
-			<div>Ini Halaman Home</div>
+			<div>Ini Halaman Home tapi udah diedit</div>
 		</div>
 	);
 };
